@@ -92,23 +92,18 @@ Documentation and GitHub
 
 Each project is documented separately to keep the RTL source, testbench, simulation evidence, and synthesis report easy to find.
 
+
 ##  Repository Structure
 
 ```text
 SPI-Design-Projects/
 ├── 01_SPI_Master_Slave/
-│   ├── rtl/
-│   ├── tb/
-│   ├── README.md
-│   ├── Simulation_Daisy_c.png
-│   └── Synthesi_Dasiy_Chain.pdf
 ├── 02_PMOD_DA4_SPI_Controller/
-│   └── README.md
 ├── 03_SPI_Daisy_Chain/
-│   └── README.md
 ├── LICENSE
 └── README.md
 ```
+
 
 *The tree shows the main organization; consult each folder for its complete file list.*
 
@@ -121,6 +116,7 @@ SPI-Design-Projects/
 - Analyze synthesized RTL using FPGA design tools.
 - Maintain structured, documented hardware-design projects.
 
+
 ##  Author
 
 **Rushikesh Dandgawhal**
@@ -131,4 +127,5 @@ SPI-Design-Projects/
 ---
 
 *RTL design, simulation, and synthesis projects focused on digital design and VLSI engineering.*
+
 
