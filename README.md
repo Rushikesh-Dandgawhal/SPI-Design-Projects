@@ -30,7 +30,7 @@ An RTL implementation of SPI master–slave communication, covering serial trans
 - ModelSim waveform inspection
 - Quartus Prime synthesis analysis
 
-**Project evidence:** [Simulation waveform](./01_SPI_Master_Slave/Simulation_Daisy_c.png) · [Synthesis report](./01_SPI_Master_Slave/Synthesi_Dasiy_Chain.pdf)
+Open the [`01_SPI_Master_Slave/`](./01_SPI_Master_Slave/) for its RTL, testbench, waveform, and synthesis documentation.
 
 ### 02 · PMOD DA4 SPI Controller
 
