@@ -47,7 +47,7 @@ The project is part of my RTL design practice, aimed at strengthening my underst
 
 The RTL Viewer diagram shows the master and slave module instances and their signal connections.
 
-[**View Synthesis / RTL Viewer Report**](Synthesis_M_S.pdf)
+![Synthesis / RTL Viewer Report](SPI_M_S.png)
 
 ### 2. Simulation Waveform
 
