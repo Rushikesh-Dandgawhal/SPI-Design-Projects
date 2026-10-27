@@ -43,17 +43,21 @@ The project is part of my RTL design practice, aimed at strengthening my underst
 
 ## Project Evidence
 
+## Project Evidence
+
 ### 1. RTL Design — Quartus RTL Viewer
 
 The RTL Viewer diagram shows the master and slave module instances and their signal connections.
 
-![Synthesis / RTL Viewer Report](SPI_M_S.png)
+[**View Synthesis / RTL Viewer Report**](Synthesis_M_S.pdf)
 
 ### 2. Simulation Waveform
 
 The simulation waveform screenshot is provided below to help visualize the SPI communication signals.
 
 ![SPI Master-Slave Simulation Waveform](simulation_M-S.png)
+
+
 
 
 
