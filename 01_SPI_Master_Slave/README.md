@@ -41,10 +41,21 @@ The project is part of my RTL design practice, aimed at strengthening my underst
 └── README.md
 ```
 
-### Project Evidence
+## Project Evidence
 
-- **`Synthesis_M_S.pdf`** — Quartus Prime synthesis report documenting the design's synthesis results.
-- **`simulation_M-S.png`** — Simulation waveform screenshot showing the SPI design's signal behavior.
+### 1. RTL Design — Quartus RTL Viewer
+
+The RTL Viewer diagram shows the master and slave module instances and their signal connections.
+
+[**View Synthesis / RTL Viewer Report**](Synthesis_M_S.pdf)
+
+### 2. Simulation Waveform
+
+The simulation waveform screenshot is provided below to help visualize the SPI communication signals.
+
+![SPI Master-Slave Simulation Waveform](simulation_M-S.png)
+
+
 
 ## SPI Modes
 
